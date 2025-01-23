@@ -28,15 +28,15 @@ INTERFACE boards:
 - for Temp-Sensors and Power-Outputs
 - SPI-Extender
 
-  DRIUVER boards:
-  - for two TB6600 stepper drivers
-  - for two TMC22xx stepper drivers
+DRIVER boards:
+- for two TB6600 stepper drivers
+- for two TMC22xx stepper drivers
 
-  DEVELOPMENT boards:
-  - Prototyping boards
-  - PCB with 10pin headers and LEDs
+DEVELOPMENT boards:
+- Prototyping boards
+- PCB with 10pin headers and LEDs
  
-    The actual list on www.systech-gmbh.ch
+The actual list on www.systech-gmbh.ch
   
    
 
