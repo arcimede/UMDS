@@ -11,7 +11,7 @@ actually ther are
 
 CPU boards for:
 - ATMEGA (688, 328, xxUy)
-- ESP32 (WROOM32, WROVER, NodeCpu (30pin or 38pin)
+- ESP32 (WROOM32, WROVER, NODEMCU (30pin or 38pin)
 - PI-Pico
 
 BUS boards:
